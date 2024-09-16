@@ -8,7 +8,7 @@ import renderPack.Vertex;
 //1st step - split expression into an array where each element is a token which
 // can be either a number, function or operator.												DONE
 
-//2nd step - rearrange array into postfix notation or 'reverse polish notation' 				DONE (still technically need to implement functions but still stfu it's done for now)
+//2nd step - rearrange array into postfix notation or 'reverse polish notation' 				DONE 
 // this makes the next step much easier.														
 
 //3rd step - for every x and y, substitute into evaluated RPN expression,
